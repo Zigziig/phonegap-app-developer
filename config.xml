@@ -15,6 +15,7 @@
     <preference name="StatusBarStyle" value="default" />
     <preference name="ShowSplashScreenSpinner" value="false" />
     <preference name="DisallowOverscroll" value="true" />
+    phonegap plugin add phonegap-plugin-barcodescanner --variable ANDROID_SUPPORT_V4_VERSION="27.1.1"
     <access origin="*" />
     <content src="index.html" />
      <platform name="windows">
